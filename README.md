@@ -25,3 +25,8 @@ This code supports a cross-country comparison of **price elasticity** and **soci
 - The **Stata do-file** then estimates **mixed-effects models** (`mixed`) linking log(price) to log(volume) sold, with SES interactions and store/time controls, producing the coefficients used in the final **meta-analysis robustness checks**.
 
 ---
+
+## ⚙️ Data
+
+Note that the raw data used for the clustering and regression modelling cannot be shared publically due to non-disclosure agreeements with retailers in Finland and Canada. However, the dataset used for the meta-analysis is available for download at: https://doi.org/10.5281/zenodo.17419417
+
